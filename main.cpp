@@ -16,6 +16,6 @@ int main()
   cout<<"Welcome, "<<first[0]<<"."<<last[0]<<"., here is your fortune..."<<endl;   
   //tell fortune
   lucky = first + last;
-    cout<<"Your lucky nmber is: "<<lucky.length()<< "."<<endl;
+    cout<<"Your lucky number is: "<<lucky.length()<< "."<<endl;
   return 0;
 }
