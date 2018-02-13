@@ -15,7 +15,7 @@ int main()
     cin>>last;
   cout<<"Welcome, "<<first[0]<<"."<<last[0]<<"., here is your fortune..."<<endl;   
   //tell fortune
-  lucky = first + last;
+  lucky = first;
     cout<<"Your lucky number is: "<<lucky.length()<< "."<<endl;
   return 0;
 }
